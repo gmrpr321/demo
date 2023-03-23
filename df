@@ -1,0 +1,42 @@
+[33mcommit be405bec178da04917fe953bd18394e712b1edec[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: a927b22 519a184
+Author: pradeep <pradeepsn606@gmail.com>
+Date:   Thu Mar 23 10:38:47 2023 +0530
+
+    merge resolved
+
+[33mcommit 519a1842d2d2c86c396fa6c90e0b6b209774328c[m[33m ([m[1;32mnotinsertion[m[33m)[m
+Author: pradeep <pradeepsn606@gmail.com>
+Date:   Thu Mar 23 10:35:45 2023 +0530
+
+    this is supposed to be a houasdf
+
+[33mcommit a927b22e0e7060f2710c92be17638fb03ba40b98[m[33m ([m[1;32memergency[m[33m)[m
+Author: pradeep <pradeepsn606@gmail.com>
+Date:   Thu Mar 23 10:33:56 2023 +0530
+
+    dont
+
+[33mcommit 86b9d3d413c128675ea0693185eb040d7d5995ef[m
+Author: pradeep <pradeepsn606@gmail.com>
+Date:   Thu Mar 23 10:30:57 2023 +0530
+
+    new stuff added
+
+[33mcommit 8f8bc70ce8c04bcc8826af8912e560472d971334[m
+Author: pradeep <pradeepsn606@gmail.com>
+Date:   Thu Mar 23 10:23:59 2023 +0530
+
+    modified some stuff
+
+[33mcommit 95e3decde854920ed3850d216ce39e2d4c91005b[m
+Author: pradeep <pradeepsn606@gmail.com>
+Date:   Thu Mar 23 10:13:38 2023 +0530
+
+    a second one
+
+[33mcommit 575201f4f82c2ce8037a38fdf274bd98455e91fa[m
+Author: pradeep <pradeepsn606@gmail.com>
+Date:   Thu Mar 23 10:11:23 2023 +0530
+
+    first release of insertion.py
